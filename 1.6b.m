@@ -1,0 +1,12 @@
+x=[2 5;4 6]
+y=[1 5;6 -2]
+sum=x+y
+diff=x-y
+product=x*y
+tranx_x=x'
+trans_y=y'
+inv_x=inv(x)
+elem_prod=x.*y
+elm_div=x./y
+elm_sqr=x.^2
+elm_sqrXY=x.^y

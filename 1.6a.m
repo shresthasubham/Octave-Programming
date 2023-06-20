@@ -1,0 +1,9 @@
+k=1:30;
+f=exp(0.05*k);
+f_max = max(f)
+f_min = min(f)
+f_sum = sum(f)
+f_mul = prod(f)
+f_mean=mean(f)
+f_var=var(f)
+f_len=length(f)
